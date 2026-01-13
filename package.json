@@ -1,0 +1,21 @@
+{
+  "name": "purpleblossom",
+  "displayName": "PurpleBlossom",
+  "description": "A dreamy dark theme featuring soft purple hues and delicate pale pink accents. Perfect for late-night coding sessions, this theme creates a soothing, low-contrast environment that's easy on the eyes while maintaining excellent readability. The carefully balanced color palette combines deep purple backgrounds with gentle pink and lavender syntax highlighting, creating an elegant and focused coding experience",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PerpleBlossom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PerpleBlossom-color-theme.json"
+      }
+    ]
+  }
+}
