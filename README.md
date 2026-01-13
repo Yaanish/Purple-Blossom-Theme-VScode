@@ -43,7 +43,7 @@ A dreamy dark theme for Visual Studio Code featuring soft purple hues and delica
 
 ## Feedback & Contributions
 
-Found a bug or have a suggestion? Please open an issue on [GitHub](https://github.com/Yaanish/purple-blossom-theme/issues).
+Found a bug or have a suggestion? Please email me yanishmoshidora@gmail.com
 
 Pull requests are welcome! Feel free to contribute improvements.
 
