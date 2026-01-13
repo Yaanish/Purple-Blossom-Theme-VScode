@@ -14,7 +14,7 @@ A dreamy dark theme for Visual Studio Code featuring soft purple hues and delica
 
 ## Installation
 
-### Manual Installation
+### Manual Installation 
 
 1. Clone this repository
 2. Copy the theme folder to your VS Code extensions directory:
@@ -22,6 +22,7 @@ A dreamy dark theme for Visual Studio Code featuring soft purple hues and delica
    - **Mac/Linux**: `~/.vscode/extensions`
 3. Reload VS Code
 4. Select the theme from `File > Preferences > Color Theme`
+5. Or you can download latest release unpack the repo into extention folder.
 
 ## Color Palette
 
