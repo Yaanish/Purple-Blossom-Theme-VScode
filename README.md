@@ -1,9 +1,7 @@
 # Purple Blossom Theme 🌸
 
 A dreamy dark theme for Visual Studio Code featuring soft purple hues and delicate pale pink accents.
-
-
-
+<img width="9917" height="7001" alt="wall" src="https://github.com/user-attachments/assets/3420715a-d748-4e79-be35-70d74ca71bfe" />
 ## Features
 
  **Elegant Color Palette** - Carefully balanced purple and pink tones  
