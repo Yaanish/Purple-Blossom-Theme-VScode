@@ -37,7 +37,6 @@ A dreamy dark theme for Visual Studio Code featuring soft purple hues and delica
 
 <img width="2495" height="1440" alt="preview (1)" src="https://github.com/user-attachments/assets/85ea9874-b17a-49e5-8acf-fa5b9318efa2" />
 
-<img width="1972" height="1093" alt="preview (2)" src="https://github.com/user-attachments/assets/0e18e4e7-a87e-40ee-b29d-22f456dda621" />
 
 
 ## Feedback & Contributions
